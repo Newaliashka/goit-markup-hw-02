@@ -163,14 +163,14 @@ color: #2E2F42;
 .features p{
   font-size: 16px;
   font-weight: 400;
-  line-height: 1,5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .features h3{
   font-size: 20px;
   font-weight: 500;
-  line-height:1,2;
-  letter-spacing: 0,02em;
+  line-height:1.2;
+  letter-spacing: 0.02em;
 }
 .portfolio-item-text,
 .portfolio p {
