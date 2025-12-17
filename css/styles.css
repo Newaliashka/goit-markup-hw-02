@@ -10,12 +10,11 @@ ul {
   padding: 0;
   margin: 0;
 }
-nav {
+.page-header {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-decoration: none;
 }
 .logo{
      font-family: "Raleway", sans-serif;
@@ -36,6 +35,7 @@ nav {
     padding: 120px 20px;
     background-color: #2E2F42;
     color: #ffffff;
+    text-align: start;
   }
     
 
@@ -85,7 +85,7 @@ nav {
 }
 
 
-footer{
+.page-footer{
     color: #f4f4fd;
     background-color:#2E2F42;
     
@@ -119,7 +119,7 @@ footer{
   text-align: center;
   font-size: 36px;
   letter-spacing: 0.02em;
-  line-height:  1.11em;
+  line-height:  1.11;
 }
 .portfolio h3{
   color: #2E2F42;
@@ -127,9 +127,6 @@ footer{
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-}
-.hero {
-  text-align: start;
 }
 .nav-link {
     color: #2e2f42;
